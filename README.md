@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dwijim (dwi sakethi)
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding and sharing
 - 🌱 I’m currently learning C++, PHP, Laravel, Flutter, Latex
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... www.dwijim.wordpress.com
